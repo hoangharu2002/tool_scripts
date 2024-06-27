@@ -5,4 +5,5 @@ Before running, you need to add this script address to PATH (environment variabl
 How to use:
 1. Open Windows terminal
 2. Use this syntax
-renamefile.bat []
+replacechar.bat [oldchar] [newchar]
+3. Check file names after work
