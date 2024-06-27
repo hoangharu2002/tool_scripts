@@ -14,4 +14,4 @@ Old file names: A_1.txt, My_file.doc, check_it.exe
 Replace '_' with '#': replacechar _ #
 New file names: A#1.txt, My#file.doc, check#it.exe
 
-# Note: if you want to pass 'space' as an argument, you need to put it between double quotes (" ").
+Note: if you want to pass 'space' as an argument, you need to put it between double quotes (" ").
