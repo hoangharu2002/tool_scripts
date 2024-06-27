@@ -7,3 +7,9 @@ How to use:
 2. Use this syntax
 replacechar.bat [oldchar] [newchar]
 3. Check file names after work
+
+Example:
+
+Old file names: A_1.txt, My_file.doc, check_it.exe
+Replace '_' with '#': replacechar "_" " "
+New file names: A#1.txt, My#file.doc, check#it.exe
