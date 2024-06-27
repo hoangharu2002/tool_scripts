@@ -1,4 +1,4 @@
-A simple script for replacing a character in multiple files name on Windows.
+A simple script for replacing a character in multiple file names on Windows.
 
 Before running, you need to add this script address to PATH (environment variable) or paste this script into the folder you want to work in.
 
