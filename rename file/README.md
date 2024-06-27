@@ -10,7 +10,7 @@ Before running, you need to add this script address to PATH (environment variabl
 
 ### List of scripts:
 1. replacechar.bat
-- Using for replacing a specific character or string with another one in all file names in current folder.
+- Using for replacing a specific character or string with another in all file names in current folder.
 - Syntax:
 ```
 replacechar[.bat] {oldchar} {newchar}
