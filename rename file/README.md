@@ -2,16 +2,18 @@ A simple script for replacing a character in multiple file names on Windows.
 
 Before running, you need to add this script address to PATH (environment variable) or paste this script into the folder you want to work in.
 
-How to use:
+#### How to use:
 1. Open Windows terminal
 2. Use this syntax
 replacechar.bat [oldchar] [newchar]
 3. Check file names after work
 
-Example:
+#### Example:
 
 Old file names: A_1.txt, My_file.doc, check_it.exe
+
 Replace '_' with '#': replacechar _ #
+
 New file names: A#1.txt, My#file.doc, check#it.exe
 
 Note: if you want to pass 'space' as an argument, you need to put it between double quotes (" ").
