@@ -1,6 +1,6 @@
 A set of simple scripts for manipulating with multiple file names on Windows.
 
-Before running, you need to add this script address to PATH (environment variable) or paste this script into the folder you want to work in.
+> *Note: Before running, you need to add this script address to PATH (environment variable) or paste this script into the folder you want to work in.*
 
 ### How to use:
 1. Go into folder you want to work in
