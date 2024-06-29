@@ -10,12 +10,9 @@ Before running, you need to add this script address to PATH (environment variabl
 
 ### List of scripts:
 1. replacechar.bat
-- Using for replacing a specific character or string with another in all file names in current folder.
-- Syntax:
-```
-replacechar[.bat] {oldchar} {newchar}
-```
-- Example:
-    * Old files: A#1.txt, T#H.md, My#File.doc
-    * Command: ```replacechar "#" "_"```
-    * New files: A_1.txt, T_H.md, My_File.doc
+    + Using for replacing a specific character or string with another in all file names in current folder.
+    + Syntax: `replacechar[.bat] {oldchar} {newchar}`
+    + Example:
+        * Old files: A#1.txt, T#H.md, My#File.doc
+        * Command: `replacechar "#" "_"`
+        * New files: A_1.txt, T_H.md, My_File.doc
